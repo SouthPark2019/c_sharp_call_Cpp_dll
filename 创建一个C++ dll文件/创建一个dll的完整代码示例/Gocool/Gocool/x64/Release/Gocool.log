@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Gocool.cpp
+    正在创建库 C:\Users\Administrator\Desktop\如何创建C++dll\Gocool\x64\Release\Gocool.lib 和对象 C:\Users\Administrator\Desktop\如何创建C++dll\Gocool\x64\Release\Gocool.exp
+  正在生成代码
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Gocool.vcxproj -> C:\Users\Administrator\Desktop\如何创建C++dll\Gocool\x64\Release\Gocool.dll
+  Gocool.vcxproj -> C:\Users\Administrator\Desktop\如何创建C++dll\Gocool\x64\Release\Gocool.pdb (Full PDB)

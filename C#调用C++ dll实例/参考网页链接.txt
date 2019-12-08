@@ -1,0 +1,8 @@
+https://blog.csdn.net/cnhk1225/article/details/53115220
+
+https://docs.microsoft.com/zh-tw/dotnet/api/system.runtime.interopservices.marshal.ptrtostructure?view=netframework-4.8#System_Runtime_InteropServices_Marshal_PtrToStructure_System_IntPtr_System_Type_
+
+https://blog.csdn.net/xxdddail/article/details/11781003?utm_source=blogxgwz4
+
+https://blog.csdn.net/xxdddail/article/details/49703789
+
